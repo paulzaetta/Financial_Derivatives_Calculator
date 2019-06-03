@@ -1,10 +1,8 @@
-# Folder structure
+# Structure du dossier
 
-## Financial_Derivatives_Calculator.pdf
+## Évaluation_Produits_Dérivés.pdf
 
 Ce fichier (en format PDF) contient une explication détaillée du code VBA.
-
-The project involves the creation of a tool that allows the user to evaluate some derivative products (options, bonds and swaps).
 
 ## Financial_Derivatives_Calculator.pdf
 
