@@ -1,5 +1,12 @@
-# Financial_Derivatives_Calculator
+# Folder structure
+
+## Financial_Derivatives_Calculator.pdf
+
+Ce fichier (en format PDF) contient une explication détaillée du code VBA.
+
 The project involves the creation of a tool that allows the user to evaluate some derivative products (options, bonds and swaps).
+
+## Financial_Derivatives_Calculator.pdf
 
 A first application will allow to evaluate options on equities, currencies, indices and futures according to several models. The models introduced will include the Black-Scholes model and the binomial model (for European and American options). But also models to evaluate less "traditional" options such as barrier and digital options. The valuation of the option will be combined by the evaluation of its "Greeks" (delta, gamma, theta, vega, rho). 
 
