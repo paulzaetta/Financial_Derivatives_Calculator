@@ -2,9 +2,9 @@
 
 ## Évaluation_Produits_Dérivés.pdf
 
-Ce fichier (en format PDF) contient une explication détaillée du code VBA "vba_project".
+Ce fichier (en format PDF) contient une explication détaillée du code VBA "vba_project.xlsm".
 
-## vba_project
+## vba_project.xlsm
 
 Ce projet porte sur la création d'un outil permettant d'évaluer certains produits dérivés tels que des options, des obligations et des swpas. L'outil développé se décompose en quatre applications.
 
